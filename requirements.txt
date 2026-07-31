@@ -1,0 +1,10 @@
+# Paquetes necesarios para la app de Streamlit
+# Instalación:  pip install -r requirements.txt
+
+streamlit>=1.36.0     # framework de la interfaz web
+pandas>=2.0.0         # manejo de DataFrames
+numpy>=1.24.0         # generación de datos sintéticos / cálculo numérico
+plotly>=5.20.0        # gráficos interactivos
+matplotlib>=3.7.0     # gráficos estáticos (heatmap, boxplot)
+seaborn>=0.13.0       # estilos y matriz de correlación
+scipy>=1.11.0         # estadísticos (asimetría, curtosis)
